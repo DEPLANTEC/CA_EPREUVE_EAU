@@ -1,5 +1,5 @@
-<div><img src="img/water002.png"  width="300" height="300">
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">CA_EPREUVE_EAU</span></div>
+<div><img src="img/water002.png"  width="300" height="300"></div>
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 6em;">CA_EPREUVE_EAU</span>
 
 ```rust
 cargo r --example [name] 
