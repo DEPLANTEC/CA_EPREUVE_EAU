@@ -1,0 +1,27 @@
+[package]
+name = "CA_EPREUVE_EAU"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[exemples]]
+name001 = "test"
+name002 = "Chiffre_only"
+name003 = "Combinaison_de_3_chiffres"
+name004 = "Combinaison_de_2_nombres"
+name005 = "Différence_minimum_absolue"
+name006 = "Entre_Min_et_Max"
+name007 = "Index_Wanted"
+name008 = "Majuscule"
+name009 = "Majuscule_sur_deux"
+name010 = "Par_ordre_ascii"
+name011 = "Parametres_a_l_envers"
+name012 = "Prochain_nombre_Premier"
+name013 = "String_dans_string"
+name014 = "Suite_de_Fibonacci"
+name015 = "Tri_à_bulle"
+name016 = "Tri_par_sélection"
+
