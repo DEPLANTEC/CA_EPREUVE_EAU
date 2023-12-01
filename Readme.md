@@ -3,7 +3,7 @@
 
 ```rust
 cargo r --example [name] 
-```
+``` 
 # EPREUVES
 - 01 :
 - 02 :
