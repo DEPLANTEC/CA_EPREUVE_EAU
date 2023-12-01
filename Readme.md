@@ -1,5 +1,6 @@
 <div><img src="img/water002.png"  width="1100" height="400"></div>
-# CA_EPREUVE_EAU
+
+# 🌊 CA_EPREUVE_EAU
 
 ```rust
 cargo r --example [name] 
