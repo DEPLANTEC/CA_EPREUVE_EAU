@@ -1,5 +1,4 @@
 use std::env;
-
 fn main() {
     let mut args: Vec<String> = env::args().skip(1).collect();
 
